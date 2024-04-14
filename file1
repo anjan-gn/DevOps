@@ -1,3 +1,8 @@
 Hi, this is my first git file
 2nd commit
+<<<<<<< HEAD
 trying to make conflict, editing on master
+=======
+Edited on 2nd branch to create conflict
+>>>>>>> 2nd-branch
+need to edit resolve conflict
